@@ -12,7 +12,8 @@ var shoutouts = [
   "Your creativity and kindness.",
   "How it's super easy and fun to talk and work with you!",
   "amazing ability to help me even when you have work to do. I reaaly appreciate it and without your help I highly doubt I would be able to complete my project.",
-  "Your passion and persistence. You never give up and are always trying to take risks and think out of the box and I really admire that."
+  "Your passion and persistence. You never give up and are always trying to take risks and think out of the box and I really admire that.",
+  "How much you like How I met Your Mother and how you transmit it very well on your website, also that you have great ideas."
 ]
 
 for (x of shoutouts) {
